@@ -1,0 +1,9 @@
+.DS_store
+.env
+.txt
+db.sqlite3
+.idea/
+reporting-service/__pycache__/*
+*.pyc
+setup.cfg
+applications.db
